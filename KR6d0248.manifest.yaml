@@ -1,0 +1,1483 @@
+canonical_identifier: bkk:krp/KR6d0248/v1
+canonical_location: https://kanripo.org/bkk/KR6d0248/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 法界安立圖
+  identifiers:
+    alt_id:
+    - X57n0972
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X57/X57n0972.xml
+    old_id: X57n0972
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0248_000.yaml, hash: 'sha256:f076bd795e98ef3a6b6af028f731e432f500778eeb48806a4df26e36780157c1'}
+  - {seq: 2, filename: KR6d0248_002.yaml, hash: 'sha256:baa137b0a539bc47c01744d428750fdb4df18e990819afd15d2c0ef675f2ba81'}
+  - {seq: 3, filename: KR6d0248_003.yaml, hash: 'sha256:8aec07c7c14206304a877a0dc61785e476f902d0d2909c84a6d47cba7bbbf89b'}
+  - {seq: 4, filename: KR6d0248_004.yaml, hash: 'sha256:e2e372a031676dc4daaf58209d72b5a21cdc9d568732412b55297e732d43150c'}
+  - {seq: 5, filename: KR6d0248_005.yaml, hash: 'sha256:3a6aea90030013c38a4e7ec300c49ba5a60c514c28d6793ebd9792bd884a454a'}
+  - {seq: 6, filename: KR6d0248_006.yaml, hash: 'sha256:8ac2199b420c6da1dbd5af53dd42987789452c5e58f9ee2fed3cde1099cc113d'}
+  - {seq: 7, filename: KR6d0248_007.yaml, hash: 'sha256:b0bce035a4bfc4b794716055caa7c4a1d5cf1e843e76365aeb01a799e81017ce'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0248_000.markers.yaml, hash: 'sha256:21f372ccfb0237315f081ea9a62f490c9c9695fdbe1c5a8ae967d6aba1c3bd38'}
+  - {seq: 2, role: markers, filename: assets/KR6d0248_002.markers.yaml, hash: 'sha256:fb9f53113330e7dde6ee7c80fd9154e4c315985150aea5ee043ff6b07465c7b5'}
+  - {seq: 3, role: markers, filename: assets/KR6d0248_003.markers.yaml, hash: 'sha256:864f4af91ee596032c6043b5e7d309db58c3269d21c95d407be48aeafdf46c62'}
+  - {seq: 4, role: markers, filename: assets/KR6d0248_004.markers.yaml, hash: 'sha256:02ca872c58004435a7ecb34a11b4ff696655cc5866a7ef8fae023cdaa3c7d709'}
+  - {seq: 5, role: markers, filename: assets/KR6d0248_005.markers.yaml, hash: 'sha256:22f7c9fbc315c410531e6b5aebdf05dfa9054c26a5da5e7fd7c14f4c2f72b10d'}
+  - {seq: 6, role: markers, filename: assets/KR6d0248_006.markers.yaml, hash: 'sha256:4294a7cb535f5dc62685757ad54349badbdee1f1bb96c076ae64c5f5f88eaabb'}
+  - {seq: 7, role: markers, filename: assets/KR6d0248_007.markers.yaml, hash: 'sha256:5e53a7e7d6ab2c7be5043503db9225491adfa47ff2bde134a9cb5e404da015a9'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6d0248_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 972-A 法界安立圖自序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0248_X_000-mulu-2
+    span:
+    - front
+    - 499
+    - 499
+  label: 法界安立圖總目
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0248_X_000-mulu-3
+    span:
+    - front
+    - 703
+    - 703
+  label: 法界安立圖別目卷上之上
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0248_X_000-mulu-4
+    span:
+    - front
+    - 782
+    - 782
+  label: 題注
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0248_X_1a-juan-start
+    span:
+    - body
+    - 0
+    - 7268
+  label: 法界安立圖卷上之上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0248_X_1a-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 一略明南洲
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0248_X_1a-mulu-2
+    span:
+    - body
+    - 13
+    - 13
+  label: 佛興緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0248_X_1a-mulu-3
+    span:
+    - body
+    - 213
+    - 213
+  label: 賢劫緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0248_X_1a-mulu-4
+    span:
+    - body
+    - 305
+    - 305
+  label: 娑婆疆域
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0248_X_1a-mulu-5
+    span:
+    - body
+    - 623
+    - 623
+  label: 東震旦國圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0248_X_1a-mulu-6
+    span:
+    - body
+    - 822
+    - 822
+  label: 南贍部洲圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0248_X_1a-mulu-7
+    span:
+    - body
+    - 2683
+    - 2683
+  label: 別胡梵
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0248_X_1a-mulu-8
+    span:
+    - body
+    - 2855
+    - 2855
+  label: 論中
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0248_X_1a-mulu-9
+    span:
+    - body
+    - 2957
+    - 2957
+  label: 一名聞
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0248_X_1a-mulu-10
+    span:
+    - body
+    - 3075
+    - 3075
+  label: 二里分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0248_X_1a-mulu-11
+    span:
+    - body
+    - 3270
+    - 3270
+  label: 三山王
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0248_X_1a-mulu-12
+    span:
+    - body
+    - 3494
+    - 3494
+  label: 四水源
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0248_X_1a-mulu-13
+    span:
+    - body
+    - 3669
+    - 3669
+  label: 五地臍
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0248_X_1a-mulu-14
+    span:
+    - body
+    - 3813
+    - 3813
+  label: 六輪王
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0248_X_1a-mulu-15
+    span:
+    - body
+    - 3917
+    - 3917
+  label: 七梵字
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0248_X_1a-mulu-16
+    span:
+    - body
+    - 4179
+    - 4179
+  label: 八氣和
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0248_X_1a-mulu-17
+    span:
+    - body
+    - 4536
+    - 4536
+  label: 九道中
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0248_X_1a-mulu-18
+    span:
+    - body
+    - 5546
+    - 5546
+  label: 論僊道
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0248_X_1a-mulu-19
+    span:
+    - body
+    - 6317
+    - 6317
+  label: 斷疑生信
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0248_X_1b-juan-start
+    span:
+    - body
+    - 0
+    - 11778
+  label: 法界安立圖卷上之下
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0248_X_1b-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 二廣步大地
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0248_X_1b-mulu-2
+    span:
+    - body
+    - 13
+    - 13
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0248_X_1b-mulu-3
+    span:
+    - body
+    - 121
+    - 121
+  label: 四大部洲圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0248_X_1b-mulu-4
+    span:
+    - body
+    - 203
+    - 203
+  label: 四大部洲說
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0248_X_1b-mulu-5
+    span:
+    - body
+    - 1924
+    - 1924
+  label: 業因
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0248_X_1b-mulu-6
+    span:
+    - body
+    - 2706
+    - 2706
+  label: 捨報相
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0248_X_1b-mulu-7
+    span:
+    - body
+    - 3664
+    - 3664
+  label: 九山八海圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0248_X_1b-mulu-8
+    span:
+    - body
+    - 3669
+    - 3669
+  label: 九山八海說
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0248_X_1b-mulu-9
+    span:
+    - body
+    - 4522
+    - 4522
+  label: 地動緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0248_X_1b-mulu-10
+    span:
+    - body
+    - 4929
+    - 4929
+  label: 龍王國
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0248_X_1b-mulu-11
+    span:
+    - body
+    - 5496
+    - 5496
+  label: 迦樓羅國
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0248_X_1b-mulu-12
+    span:
+    - body
+    - 5752
+    - 5752
+  label: 阿修羅國
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0248_X_1b-mulu-13
+    span:
+    - body
+    - 6166
+    - 6166
+  label: 天與修羅鬬戰
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0248_X_1b-mulu-14
+    span:
+    - body
+    - 7588
+    - 7588
+  label: 身量
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0248_X_1b-mulu-15
+    span:
+    - body
+    - 8035
+    - 8035
+  label: 業因
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0248_X_1b-mulu-16
+    span:
+    - body
+    - 8341
+    - 8341
+  label: 地獄總名
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0248_X_1b-mulu-17
+    span:
+    - body
+    - 8504
+    - 8504
+  label: 一八熱地獄圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0248_X_1b-mulu-18
+    span:
+    - body
+    - 8510
+    - 8510
+  label: 熱地獄者
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0248_X_1b-mulu-19
+    span:
+    - body
+    - 8903
+    - 8903
+  label: 十六遊增小地獄圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0248_X_1b-mulu-20
+    span:
+    - body
+    - 9210
+    - 9210
+  label: 苦報相
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0248_X_1b-mulu-21
+    span:
+    - body
+    - 10042
+    - 10042
+  label: 二八寒地獄圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0248_X_1b-mulu-22
+    span:
+    - body
+    - 10613
+    - 10613
+  label: 三邊小地獄
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0248_X_1b-mulu-23
+    span:
+    - body
+    - 10708
+    - 10708
+  label: 出地獄
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0248_X_1b-mulu-24
+    span:
+    - body
+    - 10827
+    - 10827
+  label: 業因
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0248_X_1b-mulu-25
+    span:
+    - body
+    - 11120
+    - 11120
+  label: 閻王住處
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0248_X_1b-mulu-26
+    span:
+    - body
+    - 11388
+    - 11388
+  label: 餓鬼
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0248_X_1b-mulu-27
+    span:
+    - body
+    - 11593
+    - 11593
+  label: 畜生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0248_X_2a-juan-start
+    span:
+    - body
+    - 0
+    - 10660
+  label: 法界安立圖卷中之上
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0248_X_2a-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 三徧觀三界
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0248_X_2a-mulu-2
+    span:
+    - body
+    - 12
+    - 12
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0248_X_2a-mulu-3
+    span:
+    - body
+    - 107
+    - 107
+  label: 釋總題
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0248_X_2a-mulu-4
+    span:
+    - body
+    - 196
+    - 196
+  label: 日天子宮殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0248_X_2a-mulu-5
+    span:
+    - body
+    - 339
+    - 339
+  label: 月天子宮殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0248_X_2a-mulu-6
+    span:
+    - body
+    - 482
+    - 482
+  label: 日月照用
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0248_X_2a-mulu-7
+    span:
+    - body
+    - 1058
+    - 1058
+  label: 氣候寒暑
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0248_X_2a-mulu-8
+    span:
+    - body
+    - 1359
+    - 1359
+  label: 星天宮殿圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0248_X_2a-mulu-9
+    span:
+    - body
+    - 1941
+    - 1941
+  label: 四天王宮圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0248_X_2a-mulu-10
+    span:
+    - body
+    - 2270
+    - 2270
+  label: 福報化生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0248_X_2a-mulu-11
+    span:
+    - body
+    - 2437
+    - 2437
+  label: 生天業因
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0248_X_2a-mulu-12
+    span:
+    - body
+    - 2534
+    - 2534
+  label: 忉利天宮之圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0248_X_2a-mulu-13
+    span:
+    - body
+    - 4014
+    - 4014
+  label: 業因
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0248_X_2a-mulu-14
+    span:
+    - body
+    - 4522
+    - 4522
+  label: 三界次第安立之圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0248_X_2a-mulu-15
+    span:
+    - body
+    - 4530
+    - 4530
+  label: 三界次第安立說
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0248_X_2a-mulu-16
+    span:
+    - body
+    - 5231
+    - 5231
+  label: 諸天身壽
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0248_X_2a-mulu-17
+    span:
+    - body
+    - 6124
+    - 6124
+  label: 諸天業因
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0248_X_2a-mulu-18
+    span:
+    - body
+    - 6386
+    - 6386
+  label: 天人光明
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0248_X_2a-mulu-19
+    span:
+    - body
+    - 6734
+    - 6734
+  label: 飲食精粗
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0248_X_2a-mulu-20
+    span:
+    - body
+    - 7112
+    - 7112
+  label: 三界九地
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0248_X_2a-mulu-21
+    span:
+    - body
+    - 8300
+    - 8300
+  label: 論諸天主
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0248_X_2a-mulu-22
+    span:
+    - body
+    - 8784
+    - 8784
+  label: 四禪四地
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0248_X_2a-mulu-23
+    span:
+    - body
+    - 9426
+    - 9426
+  label: 天有凡聖
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0248_X_2a-mulu-24
+    span:
+    - body
+    - 9701
+    - 9701
+  label: 三界總別
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0248_X_2a-mulu-25
+    span:
+    - body
+    - 9864
+    - 9864
+  label: 五衰退相
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0248_X_2a-mulu-26
+    span:
+    - body
+    - 10347
+    - 10347
+  label: 心生六道圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0248_X_2b-juan-start
+    span:
+    - body
+    - 0
+    - 10913
+  label: 法界安立圖卷中之下
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0248_X_2b-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 四大千劫量
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0248_X_2b-mulu-2
+    span:
+    - body
+    - 12
+    - 12
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0248_X_2b-mulu-3
+    span:
+    - body
+    - 105
+    - 105
+  label: 千世界圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0248_X_2b-mulu-4
+    span:
+    - body
+    - 109
+    - 109
+  label: 大千世界說
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0248_X_2b-mulu-5
+    span:
+    - body
+    - 1369
+    - 1369
+  label: 大千攝禪之圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0248_X_2b-mulu-6
+    span:
+    - body
+    - 1375
+    - 1375
+  label: 大千增數之圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0248_X_2b-mulu-7
+    span:
+    - body
+    - 1550
+    - 1550
+  label: 劫量總名
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0248_X_2b-mulu-8
+    span:
+    - body
+    - 1725
+    - 1725
+  label: 成劫
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0248_X_2b-mulu-9
+    span:
+    - body
+    - 2583
+    - 2583
+  label: 住劫
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0248_X_2b-mulu-10
+    span:
+    - body
+    - 3693
+    - 3693
+  label: 壞劫
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0248_X_2b-mulu-11
+    span:
+    - body
+    - 4624
+    - 4624
+  label: 空劫
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0248_X_2b-mulu-12
+    span:
+    - body
+    - 4692
+    - 4692
+  label: 大劫成壞循環之圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0248_X_2b-mulu-13
+    span:
+    - body
+    - 5024
+    - 5024
+  label: 小劫增減循環之圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0248_X_2b-mulu-14
+    span:
+    - body
+    - 6248
+    - 6248
+  label: 增劫
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0248_X_2b-mulu-15
+    span:
+    - body
+    - 6333
+    - 6333
+  label: 減劫
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0248_X_2b-mulu-16
+    span:
+    - body
+    - 6464
+    - 6464
+  label: 增劫四輪王
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0248_X_2b-mulu-17
+    span:
+    - body
+    - 6771
+    - 6771
+  label: 減劫小三災
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0248_X_2b-mulu-18
+    span:
+    - body
+    - 8387
+    - 8387
+  label: 大三災相
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0248_X_2b-mulu-19
+    span:
+    - body
+    - 8980
+    - 8980
+  label: 三災經劫圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0248_X_2b-mulu-20
+    span:
+    - body
+    - 9415
+    - 9415
+  label: 三大劫佛興之圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0248_X_2b-mulu-21
+    span:
+    - body
+    - 10177
+    - 10177
+  label: 紀劫年數
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0248_X_3a-juan-start
+    span:
+    - body
+    - 0
+    - 6319
+  label: 法界安立圖卷下之上
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0248_X_3a-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 五遊諸佛剎
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0248_X_3a-mulu-2
+    span:
+    - body
+    - 12
+    - 12
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0248_X_3a-mulu-3
+    span:
+    - body
+    - 103
+    - 103
+  label: 釋總題
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0248_X_3a-mulu-4
+    span:
+    - body
+    - 175
+    - 175
+  label: 十方佛剎圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0248_X_3a-mulu-5
+    span:
+    - body
+    - 375
+    - 375
+  label: 東方淨土
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0248_X_3a-mulu-6
+    span:
+    - body
+    - 656
+    - 656
+  label: 西方淨土圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0248_X_3a-mulu-7
+    span:
+    - body
+    - 661
+    - 661
+  label: 西方淨土
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0248_X_3a-mulu-8
+    span:
+    - body
+    - 805
+    - 805
+  label: 七寶嚴地
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0248_X_3a-mulu-9
+    span:
+    - body
+    - 937
+    - 937
+  label: 七寶宮宇
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0248_X_3a-mulu-10
+    span:
+    - body
+    - 1057
+    - 1057
+  label: 蓮華浴池
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0248_X_3a-mulu-11
+    span:
+    - body
+    - 1239
+    - 1239
+  label: 行樹樂音
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0248_X_3a-mulu-12
+    span:
+    - body
+    - 1336
+    - 1336
+  label: 寶網舒光
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0248_X_3a-mulu-13
+    span:
+    - body
+    - 1392
+    - 1392
+  label: 頂光遠照
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0248_X_3a-mulu-14
+    span:
+    - body
+    - 1482
+    - 1482
+  label: 化禽演法
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0248_X_3a-mulu-15
+    span:
+    - body
+    - 1534
+    - 1534
+  label: 壽命長遠
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0248_X_3a-mulu-16
+    span:
+    - body
+    - 1592
+    - 1592
+  label: 往生正因
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0248_X_3a-mulu-17
+    span:
+    - body
+    - 1913
+    - 1913
+  label: 疑城示謫
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0248_X_3a-mulu-18
+    span:
+    - body
+    - 2027
+    - 2027
+  label: 正報總說
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0248_X_3a-mulu-19
+    span:
+    - body
+    - 2621
+    - 2621
+  label: 一浮幢佛剎圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0248_X_3a-mulu-20
+    span:
+    - body
+    - 4157
+    - 4157
+  label: 十浮幢佛剎圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0248_X_3a-mulu-21
+    span:
+    - body
+    - 5513
+    - 5513
+  label: 華藏業因
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0248_X_3a-mulu-22
+    span:
+    - body
+    - 6144
+    - 6144
+  label: 釋華藏名
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6d0248_X_3b-juan-start
+    span:
+    - body
+    - 0
+    - 8317
+  label: 法界安立圖卷下之下
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6d0248_X_3b-mulu-1
+    span:
+    - body
+    - 92
+    - 92
+  label: 六研窮法界
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6d0248_X_3b-mulu-2
+    span:
+    - body
+    - 290
+    - 290
+  label: 十方剎海圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6d0248_X_3b-mulu-3
+    span:
+    - body
+    - 549
+    - 549
+  label: 釋大數名
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6d0248_X_3b-mulu-4
+    span:
+    - body
+    - 953
+    - 953
+  label: 通觀剎海
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6d0248_X_3b-mulu-5
+    span:
+    - body
+    - 1633
+    - 1633
+  label: 翱翔法界
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6d0248_X_3b-mulu-6
+    span:
+    - body
+    - 2745
+    - 2745
+  label: 佛光觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6d0248_X_3b-mulu-7
+    span:
+    - body
+    - 3039
+    - 3039
+  label: 法界無盡
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6d0248_X_3b-mulu-8
+    span:
+    - body
+    - 3302
+    - 3302
+  label: 七法界總論
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6d0248_X_3b-mulu-9
+    span:
+    - body
+    - 3307
+    - 3307
+  label: 四土圓融圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6d0248_X_3b-mulu-10
+    span:
+    - body
+    - 3450
+    - 3450
+  label: 依正通論
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6d0248_X_3b-mulu-11
+    span:
+    - body
+    - 4031
+    - 4031
+  label: 四土淨穢
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6d0248_X_3b-mulu-12
+    span:
+    - body
+    - 4329
+    - 4329
+  label: 五土淨穢
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6d0248_X_3b-mulu-13
+    span:
+    - body
+    - 4534
+    - 4534
+  label: 同處異見
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6d0248_X_3b-mulu-14
+    span:
+    - body
+    - 5282
+    - 5282
+  label: 色因識變圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6d0248_X_3b-mulu-15
+    span:
+    - body
+    - 5584
+    - 5584
+  label: 共不共義
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6d0248_X_3b-mulu-16
+    span:
+    - body
+    - 6058
+    - 6058
+  label: 自在不自在義
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6d0248_X_3b-mulu-17
+    span:
+    - body
+    - 6925
+    - 6925
+  label: 心造法界圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6d0248_X_3b-mulu-18
+    span:
+    - body
+    - 7553
+    - 7553
+  label: 一念具三千圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6d0248_X_3b-mulu-19
+    span:
+    - body
+    - 7694
+    - 7694
+  label: 法界直指圖
+  type: mulu
+  level: 1
+hash: sha256:1588ab4f2f5d982851ce941cee7970858354c2b98896de73a71555f719af4b85
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
